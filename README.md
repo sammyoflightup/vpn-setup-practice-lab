@@ -6,6 +6,20 @@ This repository demonstrates a hands-on practice lab for understanding **OpenVPN
 
 ---
 
+## What is a VPN and Why Use It?
+
+A **VPN (Virtual Private Network)** is a secure tunnel that allows a client device to connect to a company's internal network over the internet.  
+The main purposes are:
+
+- **Secure Remote Access** – Employees or clients can access internal resources safely from anywhere.
+- **Data Protection** – Encrypts data between client and network, preventing eavesdropping.
+- **Internal Network Access** – Allows users to access internal servers, databases, and applications as if they were physically in the office.
+- **Privacy & Anonymity** – Hides IP addresses and network activity from outsiders.
+
+**Use Case in This Lab:**  
+This practice simulates a client connecting to a company network so they can access internal resources **without exposing the network publicly**.
+
+----
 ## Overview
 
 - Created a sample `.ovpn` file for OpenVPN client import.
@@ -33,23 +47,23 @@ This repository demonstrates a hands-on practice lab for understanding **OpenVPN
 
 ## Step-by-Step Guide
 
-| Step | Action | Screenshot |
-|------|--------|------------|
+| Step | Screenshot |
+|------|------------|
 | 1 | ![Step 1](https://github.com/user-attachments/assets/2632b0f0-52db-4ef3-951d-8506c7d5deb9) |
-| ↓ | Arrow to next step | |
+| ↓ | Arrow to next step |
 | 2 | ![Step 2](https://github.com/user-attachments/assets/d7837103-b7ef-4bfd-8c6b-80b525c5badd) |
-| ↓ | Arrow to next step | |
-| 3 |  | ![Step 3](https://github.com/user-attachments/assets/24b6e6fd-9a1c-4e39-ad8e-bd47d5b74467) |
-| ↓ | Arrow to next step | |
-| 4 | | ![Step 4](https://github.com/user-attachments/assets/7e573799-277a-4e71-8595-185082714788) |
-| ↓ | Arrow to next step | |
-| 5 | | ![Step 5](https://github.com/user-attachments/assets/d3784199-be9f-4bd9-be66-7a7e15ff62e3) |
-| ↓ | Arrow to next step | |
-| 6 | | ![Step 6](https://github.com/user-attachments/assets/111dddeb-c0dc-4009-9503-f3aeefd603e7) |
-| ↓ | Arrow to next step | |
-| 7 | | ![Step 7](https://github.com/user-attachments/assets/d85cbb88-75dd-4a12-8e69-7a547e0d35b3) |
-| ↓ | Arrow to next step | |
-| 8 | Document learning outcomes | Understanding of VPN workflow, `.ovpn` usage, and client setup |
+| ↓ | Arrow to next step |
+| 3 | ![Step 3](https://github.com/user-attachments/assets/24b6e6fd-9a1c-4e39-ad8e-bd47d5b74467) |
+| ↓ | Arrow to next step |
+| 4 | ![Step 4](https://github.com/user-attachments/assets/7e573799-277a-4e71-8595-185082714788) |
+| ↓ | Arrow to next step |
+| 5 | ![Step 5](https://github.com/user-attachments/assets/d3784199-be9f-4bd9-be66-7a7e15ff62e3) |
+| ↓ | Arrow to next step |
+| 6 | ![Step 6](https://github.com/user-attachments/assets/111dddeb-c0dc-4009-9503-f3aeefd603e7) |
+| ↓ | Arrow to next step |
+| 7 | ![Step 7](https://github.com/user-attachments/assets/d85cbb88-75dd-4a12-8e69-7a547e0d35b3) |
+| ↓ | Arrow to next step |
+| 8 | Document learning outcomes |
 
 ---
 
